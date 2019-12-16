@@ -145,3 +145,7 @@
 #	gpgSign = true
 [tag]
 	forceSignAnnotated = true
+[gpg]
+	program = /usr/local/bin/krgpg
+[commit]
+	gpgSign = true
